@@ -1,6 +1,13 @@
 # ticket-43816
 Vault with Oracle DB secrets engine and a static role + password policy + rotation 
 
+Vault 1.7.0
+Oracle Plugin 0.4.0
+
+Latest version at 25th March 2021
+
+
+
 ```shell
 $ vagrant ssh vault
 ```
